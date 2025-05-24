@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Semester 4\\Data Structure\\ds-project - Copy - Copy - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1870CC-DA17-4AE2-82FE-9653B3BCF4E1}|ds-project\\ds-project.vcxproj|E:\\Semester 4\\Data Structure\\ds-project - Copy - Copy - Copy\\ds-project\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B1870CC-DA17-4AE2-82FE-9653B3BCF4E1}|ds-project\\ds-project.vcxproj|solutionrelative:ds-project\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1870CC-DA17-4AE2-82FE-9653B3BCF4E1}|ds-project\\ds-project.vcxproj|E:\\Semester 4\\Data Structure\\ds-project - Copy - Copy - Copy\\ds-project\\xdevices.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B1870CC-DA17-4AE2-82FE-9653B3BCF4E1}|ds-project\\ds-project.vcxproj|solutionrelative:ds-project\\xdevices.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1870CC-DA17-4AE2-82FE-9653B3BCF4E1}|ds-project\\ds-project.vcxproj|E:\\Semester 4\\Data Structure\\ds-project - Copy - Copy - Copy\\ds-project\\schedular.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B1870CC-DA17-4AE2-82FE-9653B3BCF4E1}|ds-project\\ds-project.vcxproj|solutionrelative:ds-project\\schedular.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1870CC-DA17-4AE2-82FE-9653B3BCF4E1}|ds-project\\ds-project.vcxproj|E:\\Semester 4\\Data Structure\\ds-project - Copy - Copy - Copy\\ds-project\\schedular.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B1870CC-DA17-4AE2-82FE-9653B3BCF4E1}|ds-project\\ds-project.vcxproj|solutionrelative:ds-project\\schedular.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1870CC-DA17-4AE2-82FE-9653B3BCF4E1}|ds-project\\ds-project.vcxproj|E:\\Semester 4\\Data Structure\\ds-project - Copy - Copy - Copy\\ds-project\\patients.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B1870CC-DA17-4AE2-82FE-9653B3BCF4E1}|ds-project\\ds-project.vcxproj|solutionrelative:ds-project\\patients.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1870CC-DA17-4AE2-82FE-9653B3BCF4E1}|ds-project\\ds-project.vcxproj|E:\\Semester 4\\Data Structure\\ds-project - Copy - Copy - Copy\\ds-project\\euwaitlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B1870CC-DA17-4AE2-82FE-9653B3BCF4E1}|ds-project\\ds-project.vcxproj|solutionrelative:ds-project\\euwaitlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1870CC-DA17-4AE2-82FE-9653B3BCF4E1}|ds-project\\ds-project.vcxproj|E:\\Semester 4\\Data Structure\\ds-project - Copy - Copy - Copy\\ds-project\\treatment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B1870CC-DA17-4AE2-82FE-9653B3BCF4E1}|ds-project\\ds-project.vcxproj|solutionrelative:ds-project\\treatment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1870CC-DA17-4AE2-82FE-9653B3BCF4E1}|ds-project\\ds-project.vcxproj|E:\\Semester 4\\Data Structure\\ds-project - Copy - Copy - Copy\\ds-project\\patients.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B1870CC-DA17-4AE2-82FE-9653B3BCF4E1}|ds-project\\ds-project.vcxproj|solutionrelative:ds-project\\patients.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1870CC-DA17-4AE2-82FE-9653B3BCF4E1}|ds-project\\ds-project.vcxproj|E:\\Semester 4\\Data Structure\\ds-project - Copy - Copy - Copy\\ds-project\\priqueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B1870CC-DA17-4AE2-82FE-9653B3BCF4E1}|ds-project\\ds-project.vcxproj|solutionrelative:ds-project\\priqueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1870CC-DA17-4AE2-82FE-9653B3BCF4E1}|ds-project\\ds-project.vcxproj|E:\\Semester 4\\Data Structure\\ds-project - Copy - Copy - Copy\\ds-project\\euwaitlist.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B1870CC-DA17-4AE2-82FE-9653B3BCF4E1}|ds-project\\ds-project.vcxproj|solutionrelative:ds-project\\euwaitlist.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1870CC-DA17-4AE2-82FE-9653B3BCF4E1}|ds-project\\ds-project.vcxproj|E:\\Semester 4\\Data Structure\\ds-project - Copy - Copy - Copy\\ds-project\\resources.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B1870CC-DA17-4AE2-82FE-9653B3BCF4E1}|ds-project\\ds-project.vcxproj|solutionrelative:ds-project\\resources.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1870CC-DA17-4AE2-82FE-9653B3BCF4E1}|ds-project\\ds-project.vcxproj|E:\\Semester 4\\Data Structure\\ds-project - Copy - Copy - Copy\\ds-project\\udevices.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B1870CC-DA17-4AE2-82FE-9653B3BCF4E1}|ds-project\\ds-project.vcxproj|solutionrelative:ds-project\\udevices.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1870CC-DA17-4AE2-82FE-9653B3BCF4E1}|ds-project\\ds-project.vcxproj|E:\\Semester 4\\Data Structure\\ds-project - Copy - Copy - Copy\\ds-project\\treatment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B1870CC-DA17-4AE2-82FE-9653B3BCF4E1}|ds-project\\ds-project.vcxproj|solutionrelative:ds-project\\treatment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "xdevices.h",
+              "DocumentMoniker": "E:\\Semester 4\\Data Structure\\ds-project - Copy - Copy - Copy\\ds-project\\xdevices.h",
+              "RelativeDocumentMoniker": "ds-project\\xdevices.h",
+              "ToolTip": "E:\\Semester 4\\Data Structure\\ds-project - Copy - Copy - Copy\\ds-project\\xdevices.h",
+              "RelativeToolTip": "ds-project\\xdevices.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-29T01:12:21.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "priqueue.h",
+              "DocumentMoniker": "E:\\Semester 4\\Data Structure\\ds-project - Copy - Copy - Copy\\ds-project\\priqueue.h",
+              "RelativeDocumentMoniker": "ds-project\\priqueue.h",
+              "ToolTip": "E:\\Semester 4\\Data Structure\\ds-project - Copy - Copy - Copy\\ds-project\\priqueue.h",
+              "RelativeToolTip": "ds-project\\priqueue.h",
+              "ViewState": "AgIAACEAAAAAAAAAAAD4vzUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-29T00:55:03.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\Semester 4\\Data Structure\\ds-project - Copy - Copy - Copy\\ds-project\\main.cpp",
+              "RelativeDocumentMoniker": "ds-project\\main.cpp",
+              "ToolTip": "E:\\Semester 4\\Data Structure\\ds-project - Copy - Copy - Copy\\ds-project\\main.cpp*",
+              "RelativeToolTip": "ds-project\\main.cpp*",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-29T00:21:32.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "resources.h",
+              "DocumentMoniker": "E:\\Semester 4\\Data Structure\\ds-project - Copy - Copy - Copy\\ds-project\\resources.h",
+              "RelativeDocumentMoniker": "ds-project\\resources.h",
+              "ToolTip": "E:\\Semester 4\\Data Structure\\ds-project - Copy - Copy - Copy\\ds-project\\resources.h",
+              "RelativeToolTip": "ds-project\\resources.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-28T23:40:12.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "udevices.cpp",
+              "DocumentMoniker": "E:\\Semester 4\\Data Structure\\ds-project - Copy - Copy - Copy\\ds-project\\udevices.cpp",
+              "RelativeDocumentMoniker": "ds-project\\udevices.cpp",
+              "ToolTip": "E:\\Semester 4\\Data Structure\\ds-project - Copy - Copy - Copy\\ds-project\\udevices.cpp",
+              "RelativeToolTip": "ds-project\\udevices.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-28T23:17:27.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "schedular.cpp",
+              "DocumentMoniker": "E:\\Semester 4\\Data Structure\\ds-project - Copy - Copy - Copy\\ds-project\\schedular.cpp",
+              "RelativeDocumentMoniker": "ds-project\\schedular.cpp",
+              "ToolTip": "E:\\Semester 4\\Data Structure\\ds-project - Copy - Copy - Copy\\ds-project\\schedular.cpp",
+              "RelativeToolTip": "ds-project\\schedular.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAD4vxsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-28T23:01:56.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "patients.cpp",
+              "DocumentMoniker": "E:\\Semester 4\\Data Structure\\ds-project - Copy - Copy - Copy\\ds-project\\patients.cpp",
+              "RelativeDocumentMoniker": "ds-project\\patients.cpp",
+              "ToolTip": "E:\\Semester 4\\Data Structure\\ds-project - Copy - Copy - Copy\\ds-project\\patients.cpp",
+              "RelativeToolTip": "ds-project\\patients.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-28T23:11:34.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "schedular.h",
+              "DocumentMoniker": "E:\\Semester 4\\Data Structure\\ds-project - Copy - Copy - Copy\\ds-project\\schedular.h",
+              "RelativeDocumentMoniker": "ds-project\\schedular.h",
+              "ToolTip": "E:\\Semester 4\\Data Structure\\ds-project - Copy - Copy - Copy\\ds-project\\schedular.h",
+              "RelativeToolTip": "ds-project\\schedular.h",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAYwCcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-28T23:01:39.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "euwaitlist.cpp",
+              "DocumentMoniker": "E:\\Semester 4\\Data Structure\\ds-project - Copy - Copy - Copy\\ds-project\\euwaitlist.cpp",
+              "RelativeDocumentMoniker": "ds-project\\euwaitlist.cpp",
+              "ToolTip": "E:\\Semester 4\\Data Structure\\ds-project - Copy - Copy - Copy\\ds-project\\euwaitlist.cpp",
+              "RelativeToolTip": "ds-project\\euwaitlist.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAADkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-28T22:52:42.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "patients.h",
+              "DocumentMoniker": "E:\\Semester 4\\Data Structure\\ds-project - Copy - Copy - Copy\\ds-project\\patients.h",
+              "RelativeDocumentMoniker": "ds-project\\patients.h",
+              "ToolTip": "E:\\Semester 4\\Data Structure\\ds-project - Copy - Copy - Copy\\ds-project\\patients.h",
+              "RelativeToolTip": "ds-project\\patients.h",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAEMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-28T22:48:11.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "treatment.h",
+              "DocumentMoniker": "E:\\Semester 4\\Data Structure\\ds-project - Copy - Copy - Copy\\ds-project\\treatment.h",
+              "RelativeDocumentMoniker": "ds-project\\treatment.h",
+              "ToolTip": "E:\\Semester 4\\Data Structure\\ds-project - Copy - Copy - Copy\\ds-project\\treatment.h",
+              "RelativeToolTip": "ds-project\\treatment.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-28T22:35:42.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "euwaitlist.h",
+              "DocumentMoniker": "E:\\Semester 4\\Data Structure\\ds-project - Copy - Copy - Copy\\ds-project\\euwaitlist.h",
+              "RelativeDocumentMoniker": "ds-project\\euwaitlist.h",
+              "ToolTip": "E:\\Semester 4\\Data Structure\\ds-project - Copy - Copy - Copy\\ds-project\\euwaitlist.h",
+              "RelativeToolTip": "ds-project\\euwaitlist.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-28T22:35:04.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "treatment.cpp",
+              "DocumentMoniker": "E:\\Semester 4\\Data Structure\\ds-project - Copy - Copy - Copy\\ds-project\\treatment.cpp",
+              "RelativeDocumentMoniker": "ds-project\\treatment.cpp",
+              "ToolTip": "E:\\Semester 4\\Data Structure\\ds-project - Copy - Copy - Copy\\ds-project\\treatment.cpp",
+              "RelativeToolTip": "ds-project\\treatment.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-28T22:57:26.094Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
